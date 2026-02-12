@@ -1,18 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Pengya
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ispengya)](https://github.com/anuraghazra/github-readme-stats)
+> 🌱 Passionate about building robust backend systems and open-source tools.  
+> 💼 Former SDE @ Alibaba | 🎓 CS @ Zhejiang University  
+> 📍 Hangzhou, China | 🕊️ Open to collaboration on meaningful projects
 
-<!--
-**ispengya/ispengya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 [Project Name One](https://github.com/ispengya/project-one)
+> A high-performance distributed task scheduler written in Go with dynamic load balancing.  
+> **Tech**: Go • gRPC • Redis • Kubernetes  
+> ⭐ 280+ stars | 📦 Used in production at XYZ Corp
+
+### 🧠 [AI-Powered Log Analyzer](https://github.com/ispengya/log-insight)
+> Real-time log anomaly detection using lightweight LLMs and streaming pipelines.  
+> **Tech**: Python • PyTorch • Kafka • FastAPI  
+> 🏆 Winner of Hackathon 2025 | 📊 Processes 10M+ logs/day
+
+### 🛠️ [DevOps CLI Toolkit](https://github.com/ispengya/devops-cli)
+> All-in-one terminal tool for cloud resource management & debugging.  
+> **Tech**: Rust • AWS SDK • TUI (ratatui)  
+> 🐚 Replaces 5+ legacy scripts | ⚡ 3x faster than Bash alternatives
+
+*(More on my [GitHub profile](https://github.com/ispengya?tab=repositories))*
