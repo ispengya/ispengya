@@ -16,11 +16,9 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>0</td><td><a href="https://github.com/houbb/encryption-local">🔒 encryption-local</a></td><td>离线加密机组件</td><td>工具，安全</td></tr>
-    <tr><td>1</td><td><a href="https://github.com/houbb/sensitive">🛡 sensitive</a></td><td>基于注解的日志脱敏框架，更加优雅的日志打印</td><td>工具，日志</td></tr>
-    <tr><td>2</td><td><a href="https://github.com/houbb/auto-log">📋 auto-log</a></td><td>日志自动输出</td><td>工具，日志</td></tr>
-    <tr><td>3</td><td><a href="https://github.com/houbb/heaven">🧰 heaven</a></td><td>收集开发中常用的工具类</td><td>工具</td></tr>
-    <tr><td>4</td><td><a href="https://github.com/houbb/resubmit">🔁 resubmit</a></td><td>防止重复提交框架</td><td>工具</td></tr>
+    <tr><td>0</td><td><a href="[https://github.com/houbb/encryption-local](https://github.com/ispengya/hot-spotter)">hot-spotter </a></td><td>分布式热点 Key 探测与下发组件</td><td>工具，中间件</td></tr>
+    <tr><td>1</td><td><a href="https://github.com/houbb/sensitive">mini-file-storage</a></td><td>极简版的“顺序存储引擎”</td><td>工具</td></tr>
+    <tr><td>2</td><td><a href="https://github.com/ispengya/netty-remoting-framework">netty-remoting-framework</a></td><td>通信处理通用框架</td><td>工具，通信</td></tr>
   </tbody>
 </table>
 </div>
