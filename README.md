@@ -7,7 +7,7 @@
 
 | | 项目 | 简介 |
 |:---:|:---|:---|
-| 🔥 | [hot-spotter](https://github.com/ispengya/hot-spotter) | 分布式热点 Key 探测与下发组件 |
+| 🔥 | [hotkey-spotter](https://github.com/ispengya/hotkey-spotter) | 分布式热点 Key 探测与下发组件 |
 | 📦 | [mini-file-storage](https://github.com/ispengya/mini-file-storage) | 极简版的"顺序存储引擎" |
 | 🌐 | [netty-remoting-framework](https://github.com/ispengya/netty-remoting-framework) | 基于 Netty 的通用通信处理框架 |
 
