@@ -11,6 +11,7 @@
 | 📦 | [mini-file-storage](https://github.com/ispengya/mini-file-storage) | 极简版的"顺序存储引擎" |
 | 🌐 | [netty-remoting-framework](https://github.com/ispengya/netty-remoting-framework) | 基于 Netty 的通用通信处理框架 |
 | ⚡ | [nginx4j](https://github.com/ispengya/nginx4j) | 基于 Netty 的 Java 版 nginx:静态文件服务 + 流式反向代理 |
+| 🗂️ | [peerfold](https://github.com/ispengya/peerfold) | 把多台机器的目录挂成一个普通文件夹 |
 
 ### 📊 数据一览
 
