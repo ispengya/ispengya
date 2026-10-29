@@ -7,7 +7,7 @@
 
 | | 项目 | 简介 |
 |:---:|:---|:---|
-| ⚙️ | [poly-config](https://github.com/ispengya/poly-config) | 支持 AP/CP 双集群模式的配置中心，Vue 3 管理控制台 |
+| ⚙️ | [poly-config](https://github.com/ispengya/poly-config) | 支持 AP/CP 双集群模式的配置中心 |
 | 🔥 | [hotkey-spotter](https://github.com/ispengya/hotkey-spotter) | 分布式热点 Key 探测与下发组件 |
 | 📦 | [mini-file-storage](https://github.com/ispengya/mini-file-storage) | 极简版的"顺序存储引擎" |
 | 🌐 | [netty-remoting-framework](https://github.com/ispengya/netty-remoting-framework) | 基于 Netty 的通用通信处理框架 |
