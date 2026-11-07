@@ -19,4 +19,4 @@
 ### 📊 数据一览
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ispengya&theme=transparent&hide_border=true)](https://github.com/ispengya)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ispengya&layout=compact&langs_count=6&hide_border=true&theme=transparent)
+![Top Languages](./assets/top-langs.svg)
