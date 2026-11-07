@@ -15,7 +15,3 @@
 | ⚡ | [nginx4j](https://github.com/ispengya/nginx4j) | 基于 Netty 的 Java 版 nginx:静态文件服务 + 流式反向代理 |
 | 🗂️ | [peerfold](https://github.com/ispengya/peerfold) | 把多台机器的目录挂成一个普通文件夹 |
 | 🧩 | [sharding](https://github.com/ispengya/sharding) | 轻量级分库分表中间件，支持自定义分片与读写分离 |
-
-### ✨ 技术栈
-
-![Tech Stack](./assets/tech-stack.svg)
