@@ -16,7 +16,6 @@
 | 🗂️ | [peerfold](https://github.com/ispengya/peerfold) | 把多台机器的目录挂成一个普通文件夹 |
 | 🧩 | [sharding](https://github.com/ispengya/sharding) | 轻量级分库分表中间件，支持自定义分片与读写分离 |
 
-### 📊 数据一览
+### ✨ 技术栈
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ispengya&theme=transparent&hide_border=true)](https://github.com/ispengya)
-![Top Languages](./assets/top-langs.svg)
+![Tech Stack](./assets/tech-stack.svg)
