@@ -15,3 +15,4 @@
 | ⚡ | [nginx4j](https://github.com/ispengya/nginx4j) | 基于 Netty 的 Java 版 nginx:静态文件服务 + 流式反向代理 |
 | 🗂️ | [peerfold](https://github.com/ispengya/peerfold) | 把多台机器的目录挂成一个普通文件夹 |
 | 🧩 | [sharding](https://github.com/ispengya/sharding) | 分库分表中间件：分片路由、读写分离与跨数据源事务（LOCAL/2PC/3PC） |
+| 🎨 | [ai-image-console](https://github.com/ispengya/ai-image-console) | 对话式 AI 图像工作台：Pi Agent 工具调用、会话历史与 Skill 模板 |
