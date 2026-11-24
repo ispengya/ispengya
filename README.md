@@ -3,8 +3,6 @@
 > 把想法做成轻、小、可复用的工具。  
 > 专注 **后端基础设施 · 网络编程 · 中间件**，也在探索 **AI Agent 工具**。
 
-`Java` · `Go` · `TypeScript` · `Netty` · `Spring Boot` · `Fastify`
-
 ### 🛠️ 后端基础设施
 
 | | 项目 | 简介 |
